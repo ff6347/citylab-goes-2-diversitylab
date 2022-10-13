@@ -1,10 +1,10 @@
 # CityLab visits the DiversityLab
 
-## We went to visit the diversity lab and took a group photo.
+## We went to visit the diversity lab and took a group photo,
 
 [![](images/01.png)](https://labs.openai.com/s/MB2pcHEAp43gh3fGjqjX3Evd)
 
-## And enjoyed the morning sun on the balcony.
+## and enjoyed the morning sun on the balcony.
 
 [![](images/02.png)](https://labs.openai.com/s/ZUaUPzsHDVcXK4YqB3AZr1vG)
 
